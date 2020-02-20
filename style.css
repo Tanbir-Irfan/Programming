@@ -1,8 +1,16 @@
 body{
     background: skyblue;
 }
+h1{
+    color:rgb(79, 92, 16);
+    font-size: 20px;
+    text-align: center;
+}
+span{
+    color: rgb(240, 93, 93);
+}
 .theme-bar.slider-wrapper{
-    margin-left:33%;
+    margin-left: 34.5%;
     width: 30%;
     height: auto;
 }
