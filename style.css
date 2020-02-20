@@ -1,0 +1,18 @@
+.theme-bar.slider-wrapper{
+    margin-left:33%;
+    width: 30%;
+    height: auto;
+}
+.theme-bar:hover a.nivo-nextNav,.theme-bar a.nivo-prevNav{
+    font-size: 7px;
+    font-weight: bold;
+}
+.theme-bar .nivo-controlNav a{
+    display: none;
+}
+.theme-bar .nivo-controlNav{
+    height: 10px;
+}
+.theme-bar:hover a.nivo-prevNav,.theme-bar a.nivo-nextNav{
+    top: 300px;
+}
