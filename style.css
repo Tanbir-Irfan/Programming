@@ -10,8 +10,8 @@ span{
     color: rgb(240, 93, 93);
 }
 .theme-bar.slider-wrapper{
-    margin-left: 34.5%;
-    width: 30%;
+    margin-left: 23%;
+    width: 55%;
     height: auto;
 }
 .theme-bar:hover a.nivo-nextNav,.theme-bar a.nivo-prevNav{
